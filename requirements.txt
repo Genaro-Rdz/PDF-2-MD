@@ -1,0 +1,2 @@
+markitdown[pdf]
+# TODO (Semana 5): pyinstaller  (para crear el .exe)
